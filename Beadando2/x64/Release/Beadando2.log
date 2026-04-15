@@ -1,0 +1,61 @@
+﻿  Source.cpp
+D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(45,14): error C2065: 'VAOCount': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(46,13): error C2065: 'BOCount': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(47,18): error C2065: 'ProgramCount': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(48,18): error C2065: 'TextureCount': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(70,19): error C2065: 'TextureCount': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(73,23): error C2065: 'VAOCount': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(74,18): error C2065: 'BOCount': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(77,36): error C2065: 'ProgramCount': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(274,15): error C2065: 'BOCount': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(275,20): error C2065: 'VAOCount': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(10,8): error C2369: 'VAO': redefinition; different subscripts
+      D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(45,10):
+      see declaration of 'VAO'
+  
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(15,5): error C2374: 'windowWidth': redefinition; multiple initialization
+      D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(52,9):
+      see declaration of 'windowWidth'
+  
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(15,5): error C2086: 'GLint windowWidth': redefinition
+      D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(52,9):
+      see declaration of 'windowWidth'
+  
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(16,5): error C2374: 'windowHeight': redefinition; multiple initialization
+      D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(53,9):
+      see declaration of 'windowHeight'
+  
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(16,5): error C2086: 'GLint windowHeight': redefinition
+      D:\Download\OpenGLTemplate\OpenGLTemplate\include\common.cpp(53,9):
+      see declaration of 'windowHeight'
+  
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(83,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(85,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(170,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(175,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(182,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(196,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(197,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(210,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(211,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Egyetem\grafika\Beadando2\Beadando2\Beadando2\Source.cpp(226,48): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
